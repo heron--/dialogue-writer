@@ -1,6 +1,6 @@
 # To-Do
 
-- [ ] Add router
+- [x] Add router
 - [ ] Add radix
 - [ ] Add entity route
   - [ ] Add entity empty state
